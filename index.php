@@ -17,7 +17,7 @@
     <div id="rs-about" class="rs-about style1 pb-100 md-pb-70">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 order-last">
+               <!-- <div class="col-lg-4 order-last">
                     <div class="notice-bord style1">
                         <h4 class="title">Notice Board</h4>
                         <ul>
@@ -43,8 +43,8 @@
                             </li>
                         </ul>
                     </div>
-                </div>
-                <div class="col-lg-8 pr-50 md-pr-15">
+                </div>-->
+                <div class="col-lg-12 pr-50 md-pr-15">
                     <div class="about-part">
                         <div class="sec-title mb-40">
                             <div class="sub-title primary wow fadeInUp" data-wow-delay="300ms"
@@ -375,9 +375,9 @@
     <!-- Testimonial Section End -->
 
     <!-- Section bg Wrap 2 start -->
-    <div class="bg2">
+    <!--<div class="bg2">
         <!-- Blog Section Start -->
-        <div id="rs-blog" class="rs-blog style1 pt-94 pb-100 md-pt-64 md-pb-70">
+        <!--<div id="rs-blog" class="rs-blog style1 pt-94 pb-100 md-pt-64 md-pb-70">
             <div class="container">
                 <div class="sec-title mb-60 md-mb-30 text-center">
                     <div class="sub-title primary">News Update </div>
@@ -499,12 +499,12 @@
                 </div>
             </div>
         </div>
-        <!-- Blog Section End -->
+        
 
 
     </div>
-    <!-- Section bg Wrap 2 End -->
-</div>
+   
+</div>-->
 <!-- Main content End -->
 
 <?php require('footer.php'); ?>

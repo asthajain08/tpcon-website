@@ -214,7 +214,7 @@
            Host: "smtp.elasticemail.com",
            Username: "asthajain497@gmail.com",
            Password: "BAA936DDAC90800A5585E5B421B60D0A613F",
-           To: 'astha.34284@tmu.ac.in',
+           To: 'admission@tmu.ac.in',
            From: "asthajain497@gmail.com",
            Subject: "New contact info",
            Body: body
